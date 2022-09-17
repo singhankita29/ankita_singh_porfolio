@@ -1,0 +1,45 @@
+.logo {
+  width: 20%;
+  
+}
+.nav-theme {
+  background-color: #101018f8;
+  font-size: 20px;
+}
+
+.animate-navbar {
+  box-shadow: 1px 1px 1px #222;
+  animation: moveDown 0.5s ease-in-out;
+}
+
+@keyframes moveDown {
+  from {
+    transform: translateY(-5rem);
+  }
+  to {
+    transform: translateY(0rem);
+  }
+}
+
+body.light-mode {
+  background-color: #fff;
+  color: #333;
+  transition: background-color 0.3s ease;
+}
+
+body.dark-mode {
+  background-color: #10171d;
+  color: #dfdfdf;
+
+}
+  .dark-mode-toggle > button {
+    color: #999;
+    
+  }
+
+
+
+
+
+ 
+   
