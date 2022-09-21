@@ -4,6 +4,7 @@ import Button from "react-bootstrap/Button";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import './contact-form.style.css';
+
 const Contact= () => {
   return (
     <div id="contact">

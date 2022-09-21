@@ -64,6 +64,7 @@ export const skills = {
     },
  
   ],
+
   backend: [
     {
       link: "https://nodejs.org/en/",

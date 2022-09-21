@@ -34,7 +34,7 @@ const Skills = () => {
           
             {/* Backend */}
           <Col md={4}>
-            <Card className="focus mt-2 mb-2">
+            {/* <Card className="focus mt-2 mb-2">
               <Card.Body>
                 <Card.Title className="text-center  card-title">Backend</Card.Title>
                 <hr />
@@ -48,7 +48,7 @@ const Skills = () => {
                   ))}
                 </Card.Text>
               </Card.Body>
-            </Card>
+            </Card> */}
 
             {/* Hosting Platforms */}
             <Card className="focus mt-2 mb-2 ">
